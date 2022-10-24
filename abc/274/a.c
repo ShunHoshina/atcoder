@@ -1,7 +1,7 @@
 ======================================================================
 Project Name    : <abc274 a.c>
 File Name       : <a.c>
-Encoding        : <Encoding>
+Encoding        : <utf-8>
 Creation Date   : <2022/10/24>
  
 Copyright © <2022> <Shun Hoshina>. All rights reserved.
