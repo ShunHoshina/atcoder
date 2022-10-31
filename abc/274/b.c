@@ -10,5 +10,5 @@ int main (void){
             scanf("%s",&c[i][j]);
         }
     }
-    
+    return 0;
 }
