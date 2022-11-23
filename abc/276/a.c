@@ -11,5 +11,9 @@ reproduced or used in any manner whatsoever.
 ======================================================================*/
 #include <stdio.h>
 int main(void){
+    int n, w;
+    scanf("%d%d", &n, &w);
+    int s[n+1];
+    scanf("%d", s[n+1]);
     return 0;
 }
